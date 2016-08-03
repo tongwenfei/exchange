@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:exchange"
         mc:Ignorable="d" Height="300" Width="460" Closed="Window_Closed">
     <Grid Background="#FF2B2B2B">
-        <DataGrid x:Name="dataGrid1" Margin="0,0,0,0" Background="#FF2B2B2B" Foreground="#FF2B2B2B"  AutoGenerateColumns="False" CanUserAddRows="False">
+        <DataGrid x:Name="dataGrid1" Margin="0,0,0,0" Background="#FF2B2B2B" Foreground="#FF2B2B2B"  AutoGenerateColumns="False" CanUserAddRows="False" GridLinesVisibility="None">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Adress" Binding="{Binding ad}"/>
                 <DataGridTextColumn Header="0" Binding="{Binding data0}" />

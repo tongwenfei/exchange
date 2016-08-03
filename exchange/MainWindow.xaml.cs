@@ -43,7 +43,7 @@ namespace exchange
     }
     public partial class MainWindow : Window
     {
-        ObservableCollection<people> peopleList = new ObservableCollection<people>();
+        
         public MainWindow()
         {
             InitializeComponent();
@@ -131,7 +131,7 @@ namespace exchange
         }
         private void OpenMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            //MessageBox.Show("OPEN!");
+            ObservableCollection<people> peopleList = new ObservableCollection<people>();
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Title = "选择文件";
             openFileDialog.Filter = "Data 文件|*.s19;*.hex;*.bin;*.srec|s19文件|*.s19|hex文件|*.hex";

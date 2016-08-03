@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-d:\Documents\Visual Studio 2015\Projects\exchange\exchange\obj\Debug\
+D:\Documents\GitHub\exchange\exchange\obj\Debug\
 exchange
 none
 false
 DEBUG;TRACE
-d:\Documents\Visual Studio 2015\Projects\exchange\exchange\App.xaml
+D:\Documents\GitHub\exchange\exchange\App.xaml
 21178134652
 
 7123744061
 131071118929
 MainWindow.xaml;SubWindow1.xaml;
 
-False
+True
 

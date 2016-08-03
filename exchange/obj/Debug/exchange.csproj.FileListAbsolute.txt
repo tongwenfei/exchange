@@ -13,3 +13,18 @@ d:\documents\visual studio 2015\Projects\exchange\exchange\obj\Debug\exchange.Pr
 d:\documents\visual studio 2015\Projects\exchange\exchange\obj\Debug\exchange.csproj.GenerateResource.Cache
 d:\documents\visual studio 2015\Projects\exchange\exchange\obj\Debug\exchange.exe
 d:\documents\visual studio 2015\Projects\exchange\exchange\obj\Debug\exchange.pdb
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange.exe
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange.pdb
+D:\Documents\GitHub\exchange\exchange\bin\Debug\exchange.exe
+D:\Documents\GitHub\exchange\exchange\bin\Debug\exchange.pdb
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\exchange\exchange\obj\Debug\MainWindow.g.cs
+D:\Documents\GitHub\exchange\exchange\obj\Debug\SubWindow1.g.cs
+D:\Documents\GitHub\exchange\exchange\obj\Debug\App.g.cs
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange_MarkupCompile.cache
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange_MarkupCompile.lref
+D:\Documents\GitHub\exchange\exchange\obj\Debug\MainWindow.baml
+D:\Documents\GitHub\exchange\exchange\obj\Debug\SubWindow1.baml
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange.g.resources
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange.Properties.Resources.resources
+D:\Documents\GitHub\exchange\exchange\obj\Debug\exchange.csproj.GenerateResource.Cache
